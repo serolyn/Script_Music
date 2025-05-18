@@ -27,7 +27,7 @@ python beatmaker_pattern.py
 ```
 
 * Fichier généré : `random_pattern.mid`
-* Modifie la gamme, la durée ou la densité directement dans le script.
+* Modifiez la gamme, la durée ou la densité directement dans le script.
 
 ###  Générer un pattern drums
 
@@ -41,7 +41,7 @@ python drum_generator.py --bars 8 --beats 4 --subdiv 4 --tempo 100 --out my_drum
 
 ##  Import dans FL Studio
 
-* **Glisse-dépose** simplement le `.mid` dans un Channel MIDI, le Piano Roll, ou l’Arrangement de FL Studio.
+* Glissez-déposez simplement le `.mid` dans un Channel MIDI, le Piano Roll, ou l’Arrangement de FL Studio.
 * Par défaut, les notes drums sont mappées sur le channel 10 (GM Standard Drum Map).
 
 ---
@@ -65,8 +65,8 @@ python drum_generator.py --bars 8 --beats 4 --subdiv 4 --tempo 100 --out my_drum
 
 ##  Customisation
 
-* Modifie la gamme, les notes, les instruments ou la densité dans les scripts selon tes besoins.
-* Pour une autre gamme ou d’autres instruments, adapte la variable `SCALE_NOTES` ou les numéros de notes MIDI.
+* Modifiez la gamme, les notes, les instruments ou la densité dans les scripts selon vos besoins.
+* Pour une autre gamme ou d’autres instruments, adaptez la variable `SCALE_NOTES` ou les numéros de notes MIDI.
 
 ---
 
