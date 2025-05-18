@@ -81,9 +81,4 @@ MIT – libre d’usage, modifiez, partagez.
 ```
 
 ---
-
-**Voilà.**  
-- Tu n’as plus qu’à coller ce markdown dans `README.md` à la racine de ton repo.
-- C’est optimisé, crédible, lisible pour tout humain ou jury d’admission.  
-- Tu peux rajouter une image plus tard si tu veux styliser.
 ```
