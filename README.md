@@ -1,15 +1,15 @@
 
 ````markdown
-# 🎛️ Générateur de Patterns MIDI – FL Studio Ready
+# 🎛 Générateur de Patterns MIDI – FL Studio Ready
 
-**Auteur :** Walid Filali (`serolyn`)  
-**Description :** Ce repo propose deux scripts Python permettant de générer automatiquement des patterns MIDI compatibles FL Studio (ou tout autre DAW).  
+Auteur : Walid Filali (`serolyn`)  
+Ce repo propose deux scripts Python permettant de générer automatiquement des patterns MIDI compatibles FL Studio (ou tout autre DAW).  
 - `beatmaker_pattern.py` – Générateur de patterns mélodiques aléatoires (basses, leads, etc.).
 - `drum_generator.py` – Générateur de patterns drums aléatoires (kick, snare, hats, crash) au format MIDI (canal 10).
 
 ---
 
-## 🚀 Utilisation rapide
+## Utilisation rapide
 
 ### 1. Prérequis
 
